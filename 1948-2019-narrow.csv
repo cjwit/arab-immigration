@@ -1,0 +1,577 @@
+﻿Year,Number,Country
+1948,,Lebanon
+1949,19,Lebanon
+1950,204,Lebanon
+1951,220,Lebanon
+1952,175,Lebanon
+1953,261,Lebanon
+1954,324,Lebanon
+1955,276,Lebanon
+1956,390,Lebanon
+1957,411,Lebanon
+1958,366,Lebanon
+1959,438,Lebanon
+1960,511,Lebanon
+1961,498,Lebanon
+1962,406,Lebanon
+1963,448,Lebanon
+1964,410,Lebanon
+1965,430,Lebanon
+1966,535,Lebanon
+1967,752,Lebanon
+1968,892,Lebanon
+1969,1313,Lebanon
+1970,1903,Lebanon
+1971,1867,Lebanon
+1972,1984,Lebanon
+1973,1977,Lebanon
+1974,2400,Lebanon
+1975,2075,Lebanon
+1976,4532,Lebanon
+1977,5685,Lebanon
+1978,4556,Lebanon
+1979,4634,Lebanon
+1980,4136,Lebanon
+1981,3955,Lebanon
+1982,3529,Lebanon
+1983,2941,Lebanon
+1984,3213,Lebanon
+1985,3385,Lebanon
+1986,3994,Lebanon
+1987,4367,Lebanon
+1988,4910,Lebanon
+1989,5716,Lebanon
+1990,5634,Lebanon
+1991,6009,Lebanon
+1992,5838,Lebanon
+1993,5465,Lebanon
+1994,4319,Lebanon
+1995,3884,Lebanon
+1996,4382,Lebanon
+1997,3568,Lebanon
+1998,3290,Lebanon
+1999,3040,Lebanon
+2000,3674,Lebanon
+2001,4601,Lebanon
+2002,3966,Lebanon
+2003,2964,Lebanon
+1948,345,Syria
+1949,331,Syria
+1950,130,Syria
+1951,131,Syria
+1952,107,Syria
+1953,124,Syria
+1954,180,Syria
+1955,155,Syria
+1956,185,Syria
+1957,198,Syria
+1958,209,Syria
+1959,234,Syria
+1960,207,Syria
+1961,191,Syria
+1962,245,Syria
+1963,226,Syria
+1964,244,Syria
+1965,255,Syria
+1966,333,Syria
+1967,555,Syria
+1968,644,Syria
+1969,904,Syria
+1970,1026,Syria
+1971,951,Syria
+1972,1012,Syria
+1973,1128,Syria
+1974,1082,Syria
+1975,1222,Syria
+1976,1666,Syria
+1977,1676,Syria
+1978,1416,Syria
+1979,1528,Syria
+1980,1658,Syria
+1981,2127,Syria
+1982,2354,Syria
+1983,1683,Syria
+1984,1723,Syria
+1985,1518,Syria
+1986,1604,Syria
+1987,1669,Syria
+1988,2183,Syria
+1989,2675,Syria
+1990,2972,Syria
+1991,2837,Syria
+1992,2940,Syria
+1993,2933,Syria
+1994,2426,Syria
+1995,2362,Syria
+1996,3072,Syria
+1997,2269,Syria
+1998,2840,Syria
+1999,2056,Syria
+2000,2374,Syria
+2001,3368,Syria
+2002,2567,Syria
+2003,1944,Syria
+1948,184,Egypt
+1949,165,Egypt
+1950,165,Egypt
+1951,169,Egypt
+1952,156,Egypt
+1953,168,Egypt
+1954,264,Egypt
+1955,214,Egypt
+1956,272,Egypt
+1957,332,Egypt
+1958,498,Egypt
+1959,1177,Egypt
+1960,854,Egypt
+1961,452,Egypt
+1962,384,Egypt
+1963,760,Egypt
+1964,828,Egypt
+1965,1429,Egypt
+1966,1181,Egypt
+1967,1703,Egypt
+1968,2124,Egypt
+1969,3411,Egypt
+1970,4937,Egypt
+1971,3643,Egypt
+1972,2512,Egypt
+1973,2274,Egypt
+1974,1831,Egypt
+1975,1707,Egypt
+1976,2290,Egypt
+1977,2328,Egypt
+1978,2836,Egypt
+1979,3241,Egypt
+1980,2833,Egypt
+1981,3366,Egypt
+1982,2800,Egypt
+1983,2600,Egypt
+1984,2642,Egypt
+1985,2802,Egypt
+1986,2989,Egypt
+1987,3377,Egypt
+1988,3016,Egypt
+1989,3717,Egypt
+1990,4117,Egypt
+1991,5612,Egypt
+1992,3576,Egypt
+1993,3556,Egypt
+1994,3392,Egypt
+1995,5648,Egypt
+1996,6186,Egypt
+1997,5031,Egypt
+1998,4831,Egypt
+1999,4429,Egypt
+2000,4461,Egypt
+2001,5182,Egypt
+2002,4875,Egypt
+2003,3355,Egypt
+1948,376,Palestine and Jordan
+1949,238,Palestine and Jordan
+1950,226,Palestine and Jordan
+1951,284,Palestine and Jordan
+1952,288,Palestine and Jordan
+1953,304,Palestine and Jordan
+1954,346,Palestine and Jordan
+1955,411,Palestine and Jordan
+1956,814,Palestine and Jordan
+1957,994,Palestine and Jordan
+1958,528,Palestine and Jordan
+1959,607,Palestine and Jordan
+1960,576,Palestine and Jordan
+1961,658,Palestine and Jordan
+1962,771,Palestine and Jordan
+1963,752,Palestine and Jordan
+1964,726,Palestine and Jordan
+1965,702,Palestine and Jordan
+1966,1325,Palestine and Jordan
+1967,1604,Palestine and Jordan
+1968,2010,Palestine and Jordan
+1969,2617,Palestine and Jordan
+1970,2842,Palestine and Jordan
+1971,2588,Palestine and Jordan
+1972,2756,Palestine and Jordan
+1973,2450,Palestine and Jordan
+1974,2838,Palestine and Jordan
+1975,2578,Palestine and Jordan
+1976,3328,Palestine and Jordan
+1977,2875,Palestine and Jordan
+1978,3483,Palestine and Jordan
+1979,3360,Palestine and Jordan
+1980,3322,Palestine and Jordan
+1981,2825,Palestine and Jordan
+1982,2923,Palestine and Jordan
+1983,2718,Palestine and Jordan
+1984,2438,Palestine and Jordan
+1985,2998,Palestine and Jordan
+1986,3081,Palestine and Jordan
+1987,3425,Palestine and Jordan
+1988,3232,Palestine and Jordan
+1989,3921,Palestine and Jordan
+1990,4449,Palestine and Jordan
+1991,4259,Palestine and Jordan
+1992,4036,Palestine and Jordan
+1993,4741,Palestine and Jordan
+1994,3990,Palestine and Jordan
+1995,3149,Palestine and Jordan
+1996,4445,Palestine and Jordan
+1997,4171,Palestine and Jordan
+1998,3255,Palestine and Jordan
+1999,3274,Palestine and Jordan
+2000,3909,Palestine and Jordan
+2001,4593,Palestine and Jordan
+2002,3980,Palestine and Jordan
+2003,2935,Palestine and Jordan
+1948,107,Iraq
+1949,100,Iraq
+1950,116,Iraq
+1951,109,Iraq
+1952,102,Iraq
+1953,125,Iraq
+1954,162,Iraq
+1955,159,Iraq
+1956,163,Iraq
+1957,180,Iraq
+1958,215,Iraq
+1959,238,Iraq
+1960,304,Iraq
+1961,256,Iraq
+1962,314,Iraq
+1963,426,Iraq
+1964,381,Iraq
+1965,279,Iraq
+1966,657,Iraq
+1967,1071,Iraq
+1968,540,Iraq
+1969,1208,Iraq
+1970,1202,Iraq
+1971,1231,Iraq
+1972,1491,Iraq
+1973,1039,Iraq
+1974,2281,Iraq
+1975,2796,Iraq
+1976,4038,Iraq
+1977,2811,Iraq
+1978,2188,Iraq
+1979,2871,Iraq
+1980,2658,Iraq
+1981,2535,Iraq
+1982,3105,Iraq
+1983,2343,Iraq
+1984,2930,Iraq
+1985,1951,Iraq
+1986,1523,Iraq
+1987,1072,Iraq
+1988,1022,Iraq
+1989,1516,Iraq
+1990,1756,Iraq
+1991,1494,Iraq
+1992,4111,Iraq
+1993,4072,Iraq
+1994,6025,Iraq
+1995,5596,Iraq
+1996,5481,Iraq
+1997,3244,Iraq
+1998,2220,Iraq
+1999,3372,Iraq
+2000,5132,Iraq
+2001,4985,Iraq
+2002,5196,Iraq
+2003,2460,Iraq
+1948,103,Maghreb (North Africa)
+1949,118,Maghreb (North Africa)
+1950,95,Maghreb (North Africa)
+1951,111,Maghreb (North Africa)
+1952,77,Maghreb (North Africa)
+1953,220,Maghreb (North Africa)
+1954,464,Maghreb (North Africa)
+1955,533,Maghreb (North Africa)
+1956,649,Maghreb (North Africa)
+1957,727,Maghreb (North Africa)
+1958,707,Maghreb (North Africa)
+1959,742,Maghreb (North Africa)
+1960,700,Maghreb (North Africa)
+1961,635,Maghreb (North Africa)
+1962,642,Maghreb (North Africa)
+1963,709,Maghreb (North Africa)
+1964,722,Maghreb (North Africa)
+1965,590,Maghreb (North Africa)
+1966,569,Maghreb (North Africa)
+1967,644,Maghreb (North Africa)
+1968,732,Maghreb (North Africa)
+1969,788,Maghreb (North Africa)
+1970,712,Maghreb (North Africa)
+1971,584,Maghreb (North Africa)
+1972,645,Maghreb (North Africa)
+1973,630,Maghreb (North Africa)
+1974,628,Maghreb (North Africa)
+1975,565,Maghreb (North Africa)
+1976,784,Maghreb (North Africa)
+1977,633,Maghreb (North Africa)
+1978,778,Maghreb (North Africa)
+1979,827,Maghreb (North Africa)
+1980,895,Maghreb (North Africa)
+1981,959,Maghreb (North Africa)
+1982,930,Maghreb (North Africa)
+1983,992,Maghreb (North Africa)
+1984,906,Maghreb (North Africa)
+1985,1106,Maghreb (North Africa)
+1986,1145,Maghreb (North Africa)
+1987,1110,Maghreb (North Africa)
+1988,1210,Maghreb (North Africa)
+1989,1549,Maghreb (North Africa)
+1990,2014,Maghreb (North Africa)
+1991,2459,Maghreb (North Africa)
+1992,2225,Maghreb (North Africa)
+1993,2046,Maghreb (North Africa)
+1994,1753,Maghreb (North Africa)
+1995,2671,Maghreb (North Africa)
+1996,3320,Maghreb (North Africa)
+1997,3410,Maghreb (North Africa)
+1998,3580,Maghreb (North Africa)
+1999,4066,Maghreb (North Africa)
+2000,5022,Maghreb (North Africa)
+2001,6510,Maghreb (North Africa)
+2002,5126,Maghreb (North Africa)
+2003,4394,Maghreb (North Africa)
+1948,1,Gulf Region
+1949,2,Gulf Region
+1950,14,Gulf Region
+1951,22,Gulf Region
+1952,89,Gulf Region
+1953,136,Gulf Region
+1954,110,Gulf Region
+1955,90,Gulf Region
+1956,101,Gulf Region
+1957,110,Gulf Region
+1958,101,Gulf Region
+1959,103,Gulf Region
+1960,120,Gulf Region
+1961,139,Gulf Region
+1962,133,Gulf Region
+1963,134,Gulf Region
+1964,168,Gulf Region
+1965,174,Gulf Region
+1966,242,Gulf Region
+1967,195,Gulf Region
+1968,214,Gulf Region
+1969,453,Gulf Region
+1970,641,Gulf Region
+1971,706,Gulf Region
+1972,1147,Gulf Region
+1973,402,Gulf Region
+1974,848,Gulf Region
+1975,549,Gulf Region
+1976,984,Gulf Region
+1977,682,Gulf Region
+1978,1012,Gulf Region
+1979,854,Gulf Region
+1980,918,Gulf Region
+1981,1145,Gulf Region
+1982,992,Gulf Region
+1983,1111,Gulf Region
+1984,1105,Gulf Region
+1985,1331,Gulf Region
+1986,1454,Gulf Region
+1987,1737,Gulf Region
+1988,1758,Gulf Region
+1989,1537,Gulf Region
+1990,3446,Gulf Region
+1991,3243,Gulf Region
+1992,3965,Gulf Region
+1993,3936,Gulf Region
+1994,2930,Gulf Region
+1995,3736,Gulf Region
+1996,5098,Gulf Region
+1997,3830,Gulf Region
+1998,3778,Gulf Region
+1999,3225,Gulf Region
+2000,5466,Gulf Region
+2001,5918,Gulf Region
+2002,5714,Gulf Region
+2003,4618,Gulf Region
+1948,0,Africa (Sudan and Djibouti)
+1949,0,Africa (Sudan and Djibouti)
+1950,0,Africa (Sudan and Djibouti)
+1951,0,Africa (Sudan and Djibouti)
+1952,0,Africa (Sudan and Djibouti)
+1953,2,Africa (Sudan and Djibouti)
+1954,19,Africa (Sudan and Djibouti)
+1955,14,Africa (Sudan and Djibouti)
+1956,21,Africa (Sudan and Djibouti)
+1957,41,Africa (Sudan and Djibouti)
+1958,48,Africa (Sudan and Djibouti)
+1959,30,Africa (Sudan and Djibouti)
+1960,69,Africa (Sudan and Djibouti)
+1961,46,Africa (Sudan and Djibouti)
+1962,27,Africa (Sudan and Djibouti)
+1963,30,Africa (Sudan and Djibouti)
+1964,59,Africa (Sudan and Djibouti)
+1965,47,Africa (Sudan and Djibouti)
+1966,69,Africa (Sudan and Djibouti)
+1967,57,Africa (Sudan and Djibouti)
+1968,56,Africa (Sudan and Djibouti)
+1969,48,Africa (Sudan and Djibouti)
+1970,65,Africa (Sudan and Djibouti)
+1971,51,Africa (Sudan and Djibouti)
+1972,44,Africa (Sudan and Djibouti)
+1973,66,Africa (Sudan and Djibouti)
+1974,44,Africa (Sudan and Djibouti)
+1975,39,Africa (Sudan and Djibouti)
+1976,60,Africa (Sudan and Djibouti)
+1977,51,Africa (Sudan and Djibouti)
+1978,76,Africa (Sudan and Djibouti)
+1979,79,Africa (Sudan and Djibouti)
+1980,85,Africa (Sudan and Djibouti)
+1981,73,Africa (Sudan and Djibouti)
+1982,85,Africa (Sudan and Djibouti)
+1983,134,Africa (Sudan and Djibouti)
+1984,201,Africa (Sudan and Djibouti)
+1985,279,Africa (Sudan and Djibouti)
+1986,239,Africa (Sudan and Djibouti)
+1987,205,Africa (Sudan and Djibouti)
+1988,225,Africa (Sudan and Djibouti)
+1989,280,Africa (Sudan and Djibouti)
+1990,328,Africa (Sudan and Djibouti)
+1991,700,Africa (Sudan and Djibouti)
+1992,689,Africa (Sudan and Djibouti)
+1993,728,Africa (Sudan and Djibouti)
+1994,661,Africa (Sudan and Djibouti)
+1995,1670,Africa (Sudan and Djibouti)
+1996,2191,Africa (Sudan and Djibouti)
+1997,2048,Africa (Sudan and Djibouti)
+1998,1176,Africa (Sudan and Djibouti)
+1999,1360,Africa (Sudan and Djibouti)
+2000,1552,Africa (Sudan and Djibouti)
+2001,1678,Africa (Sudan and Djibouti)
+2002,2954,Africa (Sudan and Djibouti)
+2003,1902,Africa (Sudan and Djibouti)
+2004,3818,Lebanon
+2005,4282,Lebanon
+2006,4083,Lebanon
+2007,4267,Lebanon
+2008,4254,Lebanon
+2009,3831,Lebanon
+2010,3487,Lebanon
+2011,3295,Lebanon
+2012,2879,Lebanon
+2013,2783,Lebanon
+2014,3245,Lebanon
+2015,2813,Lebanon
+2016,2971,Lebanon
+2017,2818,Lebanon
+2018,2581,Lebanon
+2019,2605,Lebanon
+2004,2256,Syria
+2005,2831,Syria
+2006,2918,Syria
+2007,2385,Syria
+2008,2641,Syria
+2009,2442,Syria
+2010,2555,Syria
+2011,2785,Syria
+2012,3014,Syria
+2013,3366,Syria
+2014,3540,Syria
+2015,3840,Syria
+2016,4800,Syria
+2017,5877,Syria
+2018,14686,Syria
+2019,5967,Syria
+2004,5522,Egypt
+2005,7905,Egypt
+2006,10500,Egypt
+2007,9267,Egypt
+2008,8712,Egypt
+2009,8844,Egypt
+2010,8978,Egypt
+2011,7778,Egypt
+2012,8988,Egypt
+2013,10294,Egypt
+2014,11477,Egypt
+2015,12085,Egypt
+2016,12045,Egypt
+2017,9834,Egypt
+2018,9826,Egypt
+2019,9479,Egypt
+2004,3431,Palestine and Jordan
+2005,3748,Palestine and Jordan
+2006,4038,Palestine and Jordan
+2007,3917,Palestine and Jordan
+2008,3936,Palestine and Jordan
+2009,4282,Palestine and Jordan
+2010,3868,Palestine and Jordan
+2011,3876,Palestine and Jordan
+2012,4099,Palestine and Jordan
+2013,4188,Palestine and Jordan
+2014,5187,Palestine and Jordan
+2015,4664,Palestine and Jordan
+2016,5269,Palestine and Jordan
+2017,5264,Palestine and Jordan
+2018,5322,Palestine and Jordan
+2019,4998,Palestine and Jordan
+2004,3494,Iraq
+2005,4077,Iraq
+2006,4337,Iraq
+2007,3765,Iraq
+2008,4795,Iraq
+2009,12110,Iraq
+2010,19855,Iraq
+2011,21133,Iraq
+2012,20369,Iraq
+2013,9552,Iraq
+2014,19153,Iraq
+2015,21107,Iraq
+2016,18904,Iraq
+2017,14203,Iraq
+2018,14351,Iraq
+2019,6514,Iraq
+2004,5575,Maghreb (North Africa)
+2005,6244,Maghreb (North Africa)
+2006,7030,Maghreb (North Africa)
+2007,6152,Maghreb (North Africa)
+2008,6157,Maghreb (North Africa)
+2009,7644,Maghreb (North Africa)
+2010,7091,Maghreb (North Africa)
+2011,6560,Maghreb (North Africa)
+2012,5762,Maghreb (North Africa)
+2013,5398,Maghreb (North Africa)
+2014,6227,Maghreb (North Africa)
+2015,6737,Maghreb (North Africa)
+2016,7926,Maghreb (North Africa)
+2017,7683,Maghreb (North Africa)
+2018,6216,Maghreb (North Africa)
+2019,7041,Maghreb (North Africa)
+2004,4706,Gulf Region
+2005,7897,Gulf Region
+2006,6704,Gulf Region
+2007,5192,Gulf Region
+2008,6442,Gulf Region
+2009,7160,Gulf Region
+2010,6755,Gulf Region
+2011,6038,Gulf Region
+2012,7092,Gulf Region
+2013,7184,Gulf Region
+2014,7390,Gulf Region
+2015,7645,Gulf Region
+2016,18239,Gulf Region
+2017,11113,Gulf Region
+2018,6833,Gulf Region
+2019,9636,Gulf Region
+2004,3248,Africa (Sudan and Djibouti)
+2005,5281,Africa (Sudan and Djibouti)
+2006,5538,Africa (Sudan and Djibouti)
+2007,2953,Africa (Sudan and Djibouti)
+2008,3637,Africa (Sudan and Djibouti)
+2009,3631,Africa (Sudan and Djibouti)
+2010,2434,Africa (Sudan and Djibouti)
+2011,2684,Africa (Sudan and Djibouti)
+2012,2577,Africa (Sudan and Djibouti)
+2013,2035,Africa (Sudan and Djibouti)
+2014,2632,Africa (Sudan and Djibouti)
+2015,3950,Africa (Sudan and Djibouti)
+2016,3440,Africa (Sudan and Djibouti)
+2017,3737,Africa (Sudan and Djibouti)
+2018,3939,Africa (Sudan and Djibouti)
+2019,3100,Africa (Sudan and Djibouti)
